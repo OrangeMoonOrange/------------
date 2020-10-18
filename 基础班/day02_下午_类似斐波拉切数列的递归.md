@@ -6,3 +6,6 @@ F(N)=F(N-1)+F(N-2)
 
 所以经过上述的思路，就可已转化为：怎么很快的计算一个数的平方？
 
+
+
+![斐波那契数列](https://kaikaimd.oss-cn-beijing.aliyuncs.com/md/斐波那契数列.png)
